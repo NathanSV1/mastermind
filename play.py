@@ -46,10 +46,10 @@ if __name__ == '__main__':
     #play(codemaker0, human_codebreaker)
 
     # Et plus tard, vous pourrez faire jouer vos nouvelles version du codebreaker et codemaker :
-    from codebreakers import codebreaker3
+    from codebreakers import codebreaker2
     from codemakers import codemaker1
     for i in range(5):
-        play(codemaker1, codebreaker3)
+        play(codemaker1, codebreaker2)
 
     # Ou encore :
     #from codebreakers import codebreaker1
